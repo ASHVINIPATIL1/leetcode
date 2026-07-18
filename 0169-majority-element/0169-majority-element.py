@@ -15,21 +15,32 @@ class Solution:
         # time = O(n), space = O(n)
         # better than brute force
 
-        n = len(nums)
-        # sort
-        nums = sorted(nums)
-        freq = 1
-        ans = nums[0]
-        for i in range(1, n):
-            if (nums[i] == nums[i-1]):
+        # n = len(nums)
+        # # sort
+        # nums = sorted(nums)
+        # freq = 1
+        # ans = nums[0]
+        # for i in range(1, n):
+        #     if (nums[i] == nums[i-1]):
+        #         freq += 1
+        #     else:
+        #         freq = 1
+        #         ans = nums[i]
+        #     if freq > (n//2):
+        #         return ans
+        # return ans
+        # # time  = nlogn + n
+
+        freq = 0
+        ans = 0
+
+        for i in range(len(nums)):
+            if freq == 0:
+                ans = nums[i]
+            if ans == nums[i]:
                 freq += 1
             else:
-                freq = 1
-                ans = nums[i]
-            if freq > (n//2):
-                return ans
+                freq -= 1
         return ans
-        # time  = nlogn + n
-
-
+        # most optimal time = O(n)
             
