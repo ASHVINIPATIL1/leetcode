@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
