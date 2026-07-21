@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
