@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
