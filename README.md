@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
