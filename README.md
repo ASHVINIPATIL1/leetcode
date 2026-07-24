@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0841-keys-and-rooms) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
