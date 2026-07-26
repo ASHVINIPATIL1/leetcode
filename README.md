@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/ASHVINIPATIL1/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ASHVINIPATIL1/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
