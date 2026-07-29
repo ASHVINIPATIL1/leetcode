@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
