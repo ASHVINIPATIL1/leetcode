@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0125-valid-palindrome) |
 | [0551-student-attendance-record-i](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
