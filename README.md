@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
