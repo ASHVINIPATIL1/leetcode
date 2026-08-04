@@ -1,37 +1,33 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if len(s) < len(t):
+        if t == "" or len(s) < len(t):
             return ""
 
-        freq = [0] * 128
+        countT, window = {}, {}
 
-        for ch in t:
-            freq[ord(ch)] += 1
+        for c in t:
+            countT[c] = 1 + countT.get(c, 0)
+        
+        have, need = 0, len(countT)
+        res, resLen = [-1, -1], float('inf')
+        l = 0
 
-        left = 0
-        count = 0
-        start = 0
-        min_len = float('inf')
+        for r in range(len(s)):
+            c = s[r]
+            window[c] = 1 + window.get(c, 0)
 
-        for right in range(len(s)):
-            if freq[ord(s[right])] > 0:
-                count += 1
+            if c in countT and window[c] == countT[c]:
+                have += 1
 
-            freq[ord(s[right])] -= 1
-
-            while count == len(t):
-                if right - left + 1 < min_len:
-                    min_len = right - left + 1
-                    start = left
-
-                freq[ord(s[left])] += 1
-
-                if freq[ord(s[left])] > 0:
-                    count -= 1
-
-                left += 1
-
-        if min_len == float('inf'):
-            return ""
-
-        return s[start:start + min_len]
+            while have == need:
+                # update result
+                if (r - l + 1) < resLen:
+                    res = [l, r]
+                    resLen = (r -l + 1)
+                # pop from left of our window
+                window[s[l]] -= 1
+                if s[l] in countT and window[s[l]] < countT[s[l]]:
+                    have -= 1
+                l += 1
+        l, r = res
+        return s[l:r+1] if resLen != float('inf') else ""
