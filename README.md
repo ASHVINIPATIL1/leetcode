@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0056-merge-intervals) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0287-find-the-duplicate-number) |
