@@ -35,5 +35,10 @@ class Solution:
                     first = mid + 1
             return ans
 
-        return [firstOcc(), lastOcc()]
+        first = firstOcc()
+        if first == -1:
+            return [-1, -1]
+        last = lastOcc()
+
+        return [first, last]
  
