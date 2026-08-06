@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0196-delete-duplicate-emails) |
 ## Trie
