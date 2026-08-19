@@ -3,10 +3,9 @@ class Solution:
         hashmap = {}
         n = len(nums)
         
-        for i in range(n):
-            num = nums[i]
-            moreneeded = target - num
-            if moreneeded in hashmap:
-                return [hashmap[moreneeded],i]
+        for i, num in enumerate(nums):
+            diff = target - num
+            if diff in hashmap:
+                return [hashmap[diff],i]
             hashmap[num] = i
         return [-1, -1]
