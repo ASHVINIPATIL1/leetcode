@@ -3,13 +3,13 @@ class Solution:
         if len(s) != len(t):
             return False
         
-        s_hash = [0] * 27
-        t_hash = [0] * 27
+        s_hash = {}
+        t_hash = {}
 
         for c in s:
-            s_hash[ord(c) - ord('a')] += 1
+            s_hash[c] = s_hash.get(c, 0) + 1
 
         for c in t:
-            t_hash[ord(c) - ord('a')] += 1
+            t_hash[c] = t_hash.get(c, 0) + 1
 
         return s_hash == t_hash
