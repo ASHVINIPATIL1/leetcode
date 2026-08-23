@@ -1,5 +1,6 @@
 class Solution:
     def daysRequired(self, weights, capacity):
+        
         days = 1
         current = 0
 
