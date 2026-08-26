@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 ## Trie
 |  |
 | ------- |
