@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1768-merge-strings-alternately](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
