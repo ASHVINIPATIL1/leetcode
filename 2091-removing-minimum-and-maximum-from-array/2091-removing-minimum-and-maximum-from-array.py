@@ -9,30 +9,21 @@ class Solution:
 
         # front
         dele_f = 0
-        if max_index > min_index:
-            dele_f = max_index + 1
-
-        elif min_index > max_index:
-            dele_f = min_index + 1
+        f = max(max_index , min_index)
+        dele_f = f + 1
         
         # back
         dele_b = 0
-        if max_index < min_index:
-            dele_b = n - max_index
+        b = min(max_index, min_index)
+        dele_b = n - b
 
-        elif min_index < max_index:
-            dele_b = n - min_index
 
         # both
         d = 0
-        if max_index > min_index:
-            dele_bo = n - max_index
-            dele_bo_f = min_index + 1
-            d = dele_bo + dele_bo_f
-
-        elif max_index < min_index:
-            dele_bo = n - min_index
-            dele_bo_f = max_index + 1
-            d = dele_bo + dele_bo_f
+        bo_m = max(max_index, min_index)
+        bo_min = min(max_index, min_index)
+        dele_bo = n - bo_m
+        dele_bo_f = bo_min + 1
+        d = dele_bo + dele_bo_f
 
         return min(dele_f, dele_b, d)
