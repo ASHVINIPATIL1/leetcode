@@ -1,5 +1,8 @@
-import math
 class Solution:
     def findGCD(self, nums: List[int]) -> int:
-        gcd = math.gcd(min(nums), max(nums))
-        return gcd
+        largest = max(nums)
+        smallest = min(nums)
+
+        while smallest != 0:
+            largest , smallest = smallest ,largest % smallest
+        return largest
