@@ -3,8 +3,17 @@ class Solution:
         hashmap = {}
 
         for num in nums:
-            hashmap[num] = hashmap.get(num, 0) + 1
+            if num in hashmap:
+                hashmap[num] += 1
+            else:
+                hashmap[num] = 1
 
-        return sorted(hashmap, key=hashmap.get, reverse=True)[:k]
+        hashmap = sorted(hashmap.items(), key = lambda x : x[1], reverse = True)
 
+        result = []
+        
+        for i in range(k):
+            result.append(hashmap[i][0])
+
+        return result
         
