@@ -11,12 +11,12 @@ class Solution:
         while r < n:
             if nums[r] == 0:
                 zeros += 1
-            while zeros > k:
+            if zeros > k:
                 if nums[l] == 0:
                     zeros -= 1
                 l += 1
             if zeros <= k:
-                cLen = r -l + 1
+                cLen = r - l + 1
                 maxLen = max(cLen, maxLen)
             r += 1 
         return maxLen
