@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ASHVINIPATIL1/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Queue
