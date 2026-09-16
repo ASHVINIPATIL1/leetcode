@@ -3,31 +3,40 @@ class Solution:
         if t == "" or len(s) < len(t):
             return ""
 
-        countT, window = {}, {}
+        required = {}
+        window = {}
 
         for c in t:
-            countT[c] = 1 + countT.get(c, 0)
+            required[c] = required.get(c, 0) + 1
+
+        matched = 0
+        required_types = len(required)
+
+        best = [-1, -1]
+        best_len = float('inf')
+        left = 0
+
+        for right in range(len(s)):
+            c = s[right]
+            window[c] = window.get(c, 0) + 1
+
+            if c in required and window[c] == required[c]:
+                matched += 1
+            
+            while matched == required_types:
+                if right - left + 1 < best_len:
+                    best = [left, right]
+                    best_len = right - left + 1
+
+                c = s[left]
+                window[c] -= 1
+
+                if c in required and window[c] < required[c]:
+                    matched -= 1
+                
+                left += 1
+
+        l, r = best
+        return s[l : r+1] if best_len != float('inf') else ""
+
         
-        have, need = 0, len(countT)
-        res, resLen = [-1, -1], float('inf')
-        l = 0
-
-        for r in range(len(s)):
-            c = s[r]
-            window[c] = 1 + window.get(c, 0)
-
-            if c in countT and window[c] == countT[c]:
-                have += 1
-
-            while have == need:
-                # update result
-                if (r - l + 1) < resLen:
-                    res = [l, r]
-                    resLen = (r -l + 1)
-                # pop from left of our window
-                window[s[l]] -= 1
-                if s[l] in countT and window[s[l]] < countT[s[l]]:
-                    have -= 1
-                l += 1
-        l, r = res
-        return s[l:r+1] if resLen != float('inf') else ""
