@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
 |  |
@@ -449,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
