@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0242-valid-anagram) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ASHVINIPATIL1/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
