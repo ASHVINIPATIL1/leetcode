@@ -12,7 +12,11 @@ class Solution:
         suffix[n - 1] = height[n - 1]
 
         for i in range(n-2, -1, -1):
-            suffix[i] = max(suffix[i+1], height[i])
+            suff= max(suffix[i+1], height[i])
+            if suff < prefix[i]:
+                suffix[i] = suff
+            else:
+                suffix[i] = prefix[i]
 
         water = 0
 
@@ -21,7 +25,7 @@ class Solution:
             rightMax = suffix[i]
 
             if height[i] < leftMax and height[i] < rightMax:
-                water += min(leftMax, rightMax) - height[i]
+                water += suffix[i] - height[i]
 
         return water 
         
