@@ -1,26 +1,22 @@
 class Solution:
     def trap(self, height: list[int]) -> int:
         n = len(height)
+        lMax = rMax = total = 0
+        l = 0
+        r = n-1
 
-        prefix = [0] * n
-        prefix[0] = height[0]
-
-        for i in range(1, n):
-            prefix[i] = max(prefix[i-1], height[i])
-
-        water = 0
-        suffix = height[n-1]
-
-        for i in range(n-2, -1, -1):
-            suffix = max(suffix, height[i])
-
-            waterLevel = min(prefix[i], suffix)
-
-            if height[i] < waterLevel:
-                water += waterLevel - height[i]
-
-        return water 
-        
-
-
-
+        while l < r:
+            if height[l] <= height[r]:
+                if height[l] < lMax:
+                    total += lMax - height[l]
+                else:
+                    lMax = height[l]
+                l = l + 1
+            else:
+                if height[r] < rMax:
+                    total += rMax - height[r]
+                else:
+                    rMax = height[r]
+                r = r - 1
+            
+        return total
