@@ -1,28 +1,20 @@
 class Solution:
     def nextGreaterElement(self, nums1: list[int], nums2: list[int]) -> list[int]:
-        nums1Idx = { n:i for i, n in enumerate(nums1)}
+        n = len(nums2)
         res = [-1] * len(nums1)
-
-        # O(m + n)
         stack = []
 
-        for i in range(len(nums2)):
-            cur = nums2[i]
-            while stack and cur > stack[-1]:
-                val = stack.pop()
-                idx = nums1Idx[val]
-                res[idx] = cur
-            if cur in nums1Idx:
-                stack.append(cur)
+        for i in range(n-1, -1, -1):
+
+            while stack and stack[-1] <= nums2[i]:
+                stack.pop()
+            
+            if stack:
+                if nums2[i] in nums1:
+                    index = nums1.index(nums2[i])
+                    res[index] = stack[-1]
+            
+            stack.append(nums2[i])
+
         return res
 
-        # O(m * n)
-        # for i in range(len(nums2)):
-        #     if nums2[i] not in nums1Idx:
-        #         continue
-        #     for j in range(i + 1, len(nums2)):
-        #         if nums2[j] > nums2[i]:
-        #             idx = nums1Idx[nums2[i]]
-        #             res[idx] = nums2[j]
-        #             break
-        # return res
