@@ -1,7 +1,7 @@
 class Solution:
     def nextGreaterElements(self, nums: list[int]) -> list[int]:
         n = len(nums)
-        res = [0] * n
+        res = [-1] * n
         stack = []
 
         for i in range(2*n - 1, -1, -1 ):
@@ -9,6 +9,9 @@ class Solution:
                 stack.pop()    
 
             if i < n:
-                res[i] = -1 if not stack else stack[-1] 
+                if stack:
+                    res[i] = stack[-1] 
+
             stack.append(nums[i % n])
         return res
+       
