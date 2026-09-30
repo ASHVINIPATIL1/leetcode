@@ -1,44 +1,51 @@
 class Solution:
-    def sumSubarrayMins(self, arr: list[int]) -> int:
-        MOD = 10**9 + 7
+    def pse(self, arr: list[int]):
         n = len(arr)
-
-        left = [0] * n
-        right = [0] * n
-
-        # Number of subarrays extending to the left
+        previousLess = [-1] * n
         stack = []
 
         for i in range(n):
-            while stack and arr[stack[-1]] > arr[i]:
-                stack.pop()
-
-            if stack:
-                left[i] = i - stack[-1]
-            else:
-                left[i] = i + 1
-
-            stack.append(i)
-
-        # Number of subarrays extending to the right
-        stack = []
-
-        for i in range(n - 1, -1, -1):
             while stack and arr[stack[-1]] >= arr[i]:
                 stack.pop()
 
             if stack:
-                right[i] = stack[-1] - i
-            else:
-                right[i] = n - i
+                previousLess[i] = stack[-1]
 
             stack.append(i)
 
-        # Contribution of each element
-        ans = 0
+        return previousLess
+
+    def nsee(self, arr: list[int]):
+        n = len(arr)
+        nextLess = [n] * n
+        stack = []
+
+        for i in range(n-1, -1, -1):
+            while stack and arr[stack[-1]] > arr[i]:
+                stack.pop()
+
+            if stack:
+                nextLess[i] = stack[-1]
+
+            stack.append(i)
+
+        return nextLess
+
+    def sumSubarrayMins(self, arr: list[int]) -> int:
+        n = len(arr)
+        mod = 10**9 + 7
+
+        previousLess = self.pse(arr)
+        nextLess = self.nsee(arr)
+
+        answer = 0
 
         for i in range(n):
-            ans += arr[i] * left[i] * right[i]
+            left = i - previousLess[i]
+            right = nextLess[i] - i
 
-        return ans % MOD
+            contribution = (arr[i] * left * right) % mod
 
+            answer = (answer + contribution) % mod
+
+        return answer
