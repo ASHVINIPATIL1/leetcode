@@ -26,14 +26,14 @@ class Solution:
 
             rev = str(num)[::-1]                                                                             
 
-            dummy = ListNode(0)
-            current = dummy
+            head = ListNode(0)
+            current = head
 
-            for i in rev:
-                current.next = ListNode(int(i))
+            for i in range(len(rev)):
+                current.next = ListNode(int(rev[i]))
                 current = current.next
-                
-            return dummy.next
+                            
+            return head.next
             
 
             
