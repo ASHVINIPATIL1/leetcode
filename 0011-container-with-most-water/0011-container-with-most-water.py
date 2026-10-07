@@ -6,15 +6,15 @@ class Solution:
         right = len(height) - 1
 
         while left < right:
-
-            h = min(height[left],height[right])
+            h = min(height[left], height[right])
             w = right - left
             currentArea = h * w
 
-            maxArea = max(maxArea, currentArea)
+            maxArea = max(currentArea, maxArea)
 
             if height[left] < height[right]:
                 left += 1
             else:
                 right -= 1
+
         return maxArea
