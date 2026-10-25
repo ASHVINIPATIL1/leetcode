@@ -366,10 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0226-invert-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0226-invert-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
@@ -550,4 +552,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ASHVINIPATIL1/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ASHVINIPATIL1/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
